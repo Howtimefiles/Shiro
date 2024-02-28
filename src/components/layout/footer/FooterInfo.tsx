@@ -178,7 +178,7 @@ const FooterBottom = async () => {
           </SubscribeTextButton>
         </span>
         <span className="mt-3 block md:mt-0 md:inline">
-          Stay hungry. Stay foolish.
+          本站由<strong><a href="https://www.upyun.com/">又拍云</a></strong>提供CDN加速服务。
         </span>
       </p>
       <div>

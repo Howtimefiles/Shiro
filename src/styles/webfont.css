@@ -1,9 +1,9 @@
 @font-face {
   font-family: 'OperatorMonoSSmLig Nerd Font';
   src:
-    url('https://cdn.jsdelivr.net/gh/Innei/zshrc@0.1.0/webfont/OperatorMonoSSmLigNerdFontAAEOPSLMDI-Italic.woff2')
+    url('https://fastly.xiaozhengyang.com/font/HarmonyOS_Sans_SC_Medium.woff2')
       format('woff2'),
-    url('https://cdn.jsdelivr.net/gh/Innei/zshrc@0.1.0/webfont/OperatorMonoSSmLigNerdFontAAEOPSLMDI-Italic.woff')
+    url('https://fastly.xiaozhengyang.com/font/HarmonyOS_Sans_SC_Medium.woff')
       format('woff');
   font-weight: normal;
   font-style: italic;
@@ -12,9 +12,9 @@
 @font-face {
   font-family: 'OperatorMonoSSmLig Nerd Font';
   src:
-    url('https://cdn.jsdelivr.net/gh/Innei/zshrc@0.1.0/webfont/OperatorMonoSSmLigNerdFontAAEOPSLMDI-Book.woff2')
+    url('https://fastly.xiaozhengyang.com/font/HarmonyOS_Sans_SC_Medium.woff2')
       format('woff2'),
-    url('https://cdn.jsdelivr.net/gh/Innei/zshrc@0.1.0/webfont/OperatorMonoSSmLigNerdFontAAEOPSLMDI-Book.woff')
+    url('https://fastly.xiaozhengyang.com/font/HarmonyOS_Sans_SC_Medium.woff')
       format('woff');
   font-weight: normal;
   font-style: normal;
@@ -23,9 +23,9 @@
 @font-face {
   font-family: 'Operator Mono';
   src:
-    url('https://cdn.jsdelivr.net/gh/Innei/zshrc@0.1.0/webfont/OperatorMonoSSmLigNerdFontAAEOPSLMDI-Italic.woff2')
+    url('https://fastly.xiaozhengyang.com/font/HarmonyOS_Sans_SC_Medium.woff2')
       format('woff2'),
-    url('https://cdn.jsdelivr.net/gh/Innei/zshrc@0.1.0/webfont/OperatorMonoSSmLigNerdFontAAEOPSLMDI-Italic.woff')
+    url('https://fastly.xiaozhengyang.com/font/HarmonyOS_Sans_SC_Medium.woff')
       format('woff');
   font-weight: normal;
   font-style: italic;
@@ -34,9 +34,9 @@
 @font-face {
   font-family: 'Operator Mono';
   src:
-    url('https://cdn.jsdelivr.net/gh/Innei/zshrc@0.1.0/webfont/OperatorMonoSSmLigNerdFontAAEOPSLMDI-Book.woff2')
+    url('https://fastly.xiaozhengyang.com/font/HarmonyOS_Sans_SC_Medium.woff2')
       format('woff2'),
-    url('https://cdn.jsdelivr.net/gh/Innei/zshrc@0.1.0/webfont/OperatorMonoSSmLigNerdFontAAEOPSLMDI-Book.woff')
+    url('https://fastly.xiaozhengyang.com/font/HarmonyOS_Sans_SC_Medium.woff')
       format('woff');
   font-weight: normal;
   font-style: normal;

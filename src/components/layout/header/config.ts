@@ -76,6 +76,13 @@ export const headerMenuConfig: IHeaderMenu[] = [
       },
     ],
   },
+
+  {
+    title: '相册',
+    icon: h(FaSolidUserFriends),
+    path: '/gallery',
+  },
+
   {
     title: '友链',
     icon: h(FaSolidUserFriends),
@@ -103,9 +110,9 @@ export const headerMenuConfig: IHeaderMenu[] = [
         icon: h(FaSolidComments),
       },
       {
-        title: '跃迁',
+        title: '开往',
         icon: h(RMixPlanet),
-        path: 'https://travel.moe/go.html',
+        path: 'https://www.travellings.cn/go.html',
       },
     ],
   },
