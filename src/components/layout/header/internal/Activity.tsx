@@ -31,7 +31,7 @@ const ActivityIconContext = createContext<{
   appDescription: any
 }>(null!)
 
-const CND_DOMAIN = 'https://fastly.jsdelivr.net/gh/Innei/reporter-assets@main'
+const CND_DOMAIN = 'https://fastly.xiaozhengyang.com/app'
 const fetchJsonData = () => {
   return Promise.all([
     fetch(`${CND_DOMAIN}/app-icon.json`).then((res) => res.json() as object),
