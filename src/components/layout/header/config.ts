@@ -110,7 +110,7 @@ export const headerMenuConfig: IHeaderMenu[] = [
         icon: h(FaSolidComments),
       },
       {
-        title: '开往',
+        title: '🚇开往',
         icon: h(RMixPlanet),
         path: 'https://www.travellings.cn/go.html',
       },
