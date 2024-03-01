@@ -1,9 +1,9 @@
 @font-face {
   font-family: 'OperatorMonoSSmLig Nerd Font';
   src:
-    url('https://fastly.xiaozhengyang.com/font/HarmonyOS_Sans_SC_Medium.woff2')
+    url('https://server.xiaozhengyang.com:4433/files/HarmonyOS_Sans_SC_Medium.woff2')
       format('woff2'),
-    url('https://fastly.xiaozhengyang.com/font/HarmonyOS_Sans_SC_Medium.woff')
+    url('https://server.xiaozhengyang.com:4433/files/HarmonyOS_Sans_SC_Medium.woff')
       format('woff');
   font-weight: normal;
   font-style: italic;
@@ -12,9 +12,9 @@
 @font-face {
   font-family: 'OperatorMonoSSmLig Nerd Font';
   src:
-    url('https://fastly.xiaozhengyang.com/font/HarmonyOS_Sans_SC_Medium.woff2')
+    url('https://server.xiaozhengyang.com:4433/files/HarmonyOS_Sans_SC_Medium.woff2')
       format('woff2'),
-    url('https://fastly.xiaozhengyang.com/font/HarmonyOS_Sans_SC_Medium.woff')
+    url('https://server.xiaozhengyang.com:4433/files/HarmonyOS_Sans_SC_Medium.woff')
       format('woff');
   font-weight: normal;
   font-style: normal;
@@ -23,9 +23,9 @@
 @font-face {
   font-family: 'Operator Mono';
   src:
-    url('https://fastly.xiaozhengyang.com/font/HarmonyOS_Sans_SC_Medium.woff2')
+    url('https://server.xiaozhengyang.com:4433/files/HarmonyOS_Sans_SC_Medium.woff2')
       format('woff2'),
-    url('https://fastly.xiaozhengyang.com/font/HarmonyOS_Sans_SC_Medium.woff')
+    url('https://server.xiaozhengyang.com:4433/files/HarmonyOS_Sans_SC_Medium.woff')
       format('woff');
   font-weight: normal;
   font-style: italic;
@@ -34,9 +34,9 @@
 @font-face {
   font-family: 'Operator Mono';
   src:
-    url('https://fastly.xiaozhengyang.com/font/HarmonyOS_Sans_SC_Medium.woff2')
+    url('https://server.xiaozhengyang.com:4433/files/HarmonyOS_Sans_SC_Medium.woff2')
       format('woff2'),
-    url('https://fastly.xiaozhengyang.com/font/HarmonyOS_Sans_SC_Medium.woff')
+    url('https://server.xiaozhengyang.com:4433/files/HarmonyOS_Sans_SC_Medium.woff')
       format('woff');
   font-weight: normal;
   font-style: normal;
