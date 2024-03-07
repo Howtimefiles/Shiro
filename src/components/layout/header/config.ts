@@ -84,6 +84,12 @@ export const headerMenuConfig: IHeaderMenu[] = [
   },
 
   {
+    title: '🚇开往',
+    icon: h(RMixPlanet),
+    path: 'https://www.travellings.cn/go.html',
+  },
+
+  {
     title: '友链',
     icon: h(FaSolidUserFriends),
     path: '/friends',
